@@ -8,7 +8,7 @@ import { auth } from "./firebase";
 import { useNavigate } from "react-router-dom";
 import { useEffect } from "react";
 import axios from "axios";
-import { Cursor } from "mongoose";
+
 // import 'reactjs-popup';
 // import 'reactjs-popup/dist/index.css';
 //import PropPass from '../components/PropPass'
